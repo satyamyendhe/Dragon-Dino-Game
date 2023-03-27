@@ -22,5 +22,7 @@ https://github.com/satyamyendhe/DragonGameUsingJS.git
 | Keys              | Actions                                                       |
 |-------------------|---------------------------------------------------------------|
 |  `Any Key`        |    Press any key to Start the Game.                           | 
-|   **&#8593;**     |    Press `Up Arrow` to jump and avoid cacti.                  |
+|   **&#8593;**     |    Press `Up Arrow` to jump and avoid Dragon.                 |
+|   **&#8594;**     |    Press `Right Arrow` to move forward.                       |
+|   **&#8592;**     |    Press `Left Arrow` to move backward.                       |
 
